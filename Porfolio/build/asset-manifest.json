@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8be363c8.css",
+    "main.js": "/static/js/main.9c97702b.js",
+    "static/media/Ak Shopping App.png": "/static/media/Ak Shopping App.71625e72529e73a9527e.png",
+    "static/media/Weather-App.png": "/static/media/Weather-App.893eb332cd124bb5013c.png",
+    "static/media/Gulsher.jpg": "/static/media/Gulsher.6830c0b7dfc1b4154283.jpg",
+    "static/media/Data-Finance.png": "/static/media/Data-Finance.1228ae09c625b3e151ee.png",
+    "static/media/Text-Meniplater App.png": "/static/media/Text-Meniplater App.80a8c7ff8401dba29c11.png",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/nextjs.png": "/static/media/nextjs.48ddc8121a0fcb543d64.png",
+    "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/Redux crud.png": "/static/media/Redux crud.30a7278b21b56eb38006.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/index.html",
+    "main.8be363c8.css.map": "/static/css/main.8be363c8.css.map",
+    "main.9c97702b.js.map": "/static/js/main.9c97702b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8be363c8.css",
+    "static/js/main.9c97702b.js"
+  ]
+}
