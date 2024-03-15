@@ -18,7 +18,7 @@ const About = () => {
         <div className="my-8 border-b border-gray-500"></div>
 
         <p className="text-lg">
-          My journey into web development began in <span className="text-blue-400 font-semibold">2019</span> when I was inspired by a friend who is an amazing developer. Seeing his work and passion for coding ignited my interest, and I decided to dive into the world of web development.
+          My journey into web development began in <span className="text-blue-400 font-semibold">2021</span> when I was inspired by a friend who is an amazing developer. Seeing his work and passion for coding ignited my interest, and I decided to dive into the world of web development.
         </p>
 
         <div className="my-8 border-b border-gray-500"></div>
